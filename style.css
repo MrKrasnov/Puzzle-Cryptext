@@ -1,17 +1,29 @@
-.flex{
+.flex {
     display: flex;
     margin: 0 auto;
     justify-content: center;
 }
-p{
+
+p {
     text-align: center;
 }
-h1{
+
+h1 {
     text-align: center;
 }
-.flex div{
+
+.flex div {
     width: 64px;
     height: 64px;
     margin: 5px 10px;
     cursor: pointer;
+}
+
+.puzzle {
+    width: 150px;
+    margin: 0 auto;
+}
+
+.puzzle img {
+    width: 100%;
 }
